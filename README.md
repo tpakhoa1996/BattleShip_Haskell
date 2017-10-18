@@ -1,16 +1,16 @@
-### battleships
+# Battle Ship (Haskell implementation)
 
-## Introduction
+### Introduction
 This project implement a strategy for playing battleships in haskell
 
-## Structure
+### Structure
 All the nescessary files for my algorithm is stored in folder src
 
 App folder is for playing
 
 Test folder is for testing
 
-## Algorithm
+### Algorithm
 My algorithm is divied into two cases:
 
 - Case 1: There is no Hit shot on the board. The algorithm will choose to shoot the cell with the largest impact on the board
